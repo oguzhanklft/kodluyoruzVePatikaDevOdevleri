@@ -4,6 +4,5 @@
 
 **EN** -> This repo contains the assignments made within the scope of Kodluyoruz.org and Patika.dev courses.
 
-***
 ## License
 [MIT](https://choosealicense.com/licenses/mit)
